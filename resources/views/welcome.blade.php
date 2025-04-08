@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Coming Soon | Vyom Labour Services</title>
+  <title>Coming Soon |  Urbansewa Labour Services</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   <style>
@@ -58,7 +58,7 @@
   <section class="hero">
     <div class="container">
       <h1>🚧 We’re Launching Soon!</h1>
-      <p>Vyom Labour Services – Empowering Workforces, Empowering India</p>
+      <p> Urbansewa – Empowering Workforces, Empowering India</p>
       <p class="mt-3">Your one-stop solution for Skilled, Semi-Skilled, and Unskilled Labour Workforce</p>
     </div>
   </section>
@@ -134,8 +134,8 @@
     <div class="container">
       <h4>📞 Contact Us</h4>
       <p class="mt-3">Phone: +91-XXXXXXXXXX</p>
-      <p>Website: www.vyom360.in</p>
-      <p>Email: contact@vyom360.in</p>
+      <p>Website: www.urbansewa.in</p>
+      <p>Email: contact@urbansewa.in</p>
       <p>Location: India (PAN India Services)</p>
     </div>
   </section>
